@@ -1,0 +1,29 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile /storage/home/hcoda1/6/mfisher42/p-ggibson3-0/rich_project_pb1/CAGE_DATA/CAGE-BLOODSTORM/genotypes/switched_IDs/CAGE_1kg_pt3
+  --chr 22
+  --from-bp 21403735
+  --make-bed
+  --out ./genotype/UBE2L3_21403735_22403735
+  --to-bp 22403735
+
+Hostname: login-phoenix-2.pace.gatech.edu
+Working directory: /storage/coda1/p-ggibson3/0/mfisher42/rich_project_bio-gibson/New-2021/Updated-9-2021/For_Manuscript_Submission/IBD_Genes_All_Individuals
+Start time: Wed Aug  3 12:12:26 2022
+
+Random number seed: 1659543146
+191881 MB RAM detected; reserving 95940 MB for main workspace.
+1879 out of 8242192 variants loaded from .bim file.
+2765 people (604 males, 758 females, 1403 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ./genotype/UBE2L3_21403735_22403735.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2001 founders and 764 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998435.
+1879 variants and 2765 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ./genotype/UBE2L3_21403735_22403735.bed +
+./genotype/UBE2L3_21403735_22403735.bim +
+./genotype/UBE2L3_21403735_22403735.fam ... done.
+
+End time: Wed Aug  3 12:12:29 2022
