@@ -1,6 +1,6 @@
-#####################################
-# AbO Conditional Analysis Pipeline #
-#####################################
+# AbO-Conditional-Analysis
+A pipeline to perform "all-but-one" conditional analysis with the objective of isolating eQTL peaks by reducing linkage disequilibrium interference.
+
 
 ----------
 OBJECTIVE:
@@ -13,7 +13,14 @@ STEPS & HOW TO RUN:
 
 I.) Input:
 
-	Genotype data for each IBD gene of interest in the form of PLINK files for the CAGE dataset are located in the "genotype" directory. For each gene of interested, a region of TSS +/-500 Mb was obtained. For each gene of interest, a probe was utilized to quantify gene expression - some genes have one probe, some have multiple. The microarray measurements for each gene/probe and individual are listed in the "phenotype_for_chosen_genes" file. These scripts are required to run the pipeline, along with PLINK (PLINKv1.9 is already loaded in this directory):
+	Genotype data for each gene of interest in the form of PLINK files located in a "genotype" directory. Any phenotype data must be called "phenotype_for_chosen"genes" and structured as:
+	
+	chr
+	gene
+	probe/misc
+	quantitative phenotypic value
+	
+	These scripts are required to run the pipeline, along with PLINK. PLINKv1.9 can be accessed and downloaded here: https://www.cog-genomics.org/plink/
 	
 	i.) plink_wrapper.sh
 	ii.) extract_phenotypes.sh
