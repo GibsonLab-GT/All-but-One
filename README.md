@@ -1,6 +1,6 @@
 # AbO-Conditional-Analysis
-A pipeline to perform "all-but-one" conditional analysis with the objective of isolating eQTL peaks by reducing linkage disequilibrium interference.
 
+Expression quantitative trait locus (eQTL) detection has become increasingly important for understanding how non-coding variants contribute to disease susceptibility and complex traits. The major challenge in eQTL fine-mapping and causal variant discovery relate to the impact of linkage disequilibrium on signals due to one or multiple functional variants that lie within a credible interval. We contrast eQTL fine-mapping using the all-but-one approach, which conditions each signal on all others detected in an interval, with results from forward stepwise conditional analysis. The objective of this pipeline is to perform all-but-one conditional analysis by isolating sequential eQTL peaks and reducing effects of linkage disequilibirum (LD).
 
 ----------
 OBJECTIVE:
