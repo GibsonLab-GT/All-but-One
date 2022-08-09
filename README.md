@@ -30,7 +30,7 @@ I.) Input:
 	vi.) LZ_overlay_plots.R --> requires R package libraries "readr" and "stringi"
 	vii.) csv_plots_No_Cond_Analysis.sh
 
-II.) Automated Steps:
+II.) Automated Steps (Pseudocode):
 
 	For each gene listed in the "phenotype_for_chosen_genes" file:
 		Generate a new directory
