@@ -63,9 +63,9 @@ IV.) Plotting Forward Stepwise locuszoom-like plots (NOT AbO conditional analysi
 	Example for CISD1:
 		./csv_plots_No_Cond_Analysis.sh -a CISD1
 
----------------------
-GEORGIA TECH EQTL HUB 
----------------------
+----------------------
+GEORGIA TECH EQTL HUB: 
+----------------------
 
 Results for 165 IBD genes that had one or more signficant eQTL after AbO isolation are avaliable at the Georgia Tech eQTL Hub.
 PLease refer to this link to access the Georgia Tech eQTL Hub: https://eqtlhub-gt.shinyapps.io/shiny/
