@@ -68,4 +68,4 @@ GEORGIA TECH EQTL HUB:
 ----------------------
 
 Results for 165 IBD genes that had one or more signficant eQTL after AbO isolation are avaliable at the Georgia Tech eQTL Hub.
-PLease refer to this link to access the Georgia Tech eQTL Hub: https://eqtlhub-gt.shinyapps.io/shiny/
+Please refer to this link to access the Georgia Tech eQTL Hub: https://eqtlhub-gt.shinyapps.io/shiny/
