@@ -13,7 +13,7 @@ STEPS & HOW TO RUN:
 
 I.) Input:
 
-	Genotype data for each gene of interest in the form of PLINK files located in a "genotype" directory. Any phenotype data must be called "phenotype_for_chosen"genes" and structured as:
+	Genotype data for each gene of interest in the form of PLINK files located in a "genotype" directory. Any phenotype data must be called "phenotype_for_chosen_genes" and structured as:
 	
 	chr
 	gene
