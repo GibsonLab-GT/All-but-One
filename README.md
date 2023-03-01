@@ -2,6 +2,10 @@
 
 Expression quantitative trait locus (eQTL) detection has become increasingly important for understanding how non-coding variants contribute to disease susceptibility and complex traits. The major challenge in eQTL fine-mapping and causal variant discovery relate to the impact of linkage disequilibrium on signals due to one or multiple functional variants that lie within a credible interval set. We contrast eQTL fine-mapping using the all-but-one approach, which conditions each signal on all others detected in a set, with results from forward stepwise conditional analysis. The objective of this pipeline is to perform all-but-one conditional analysis by isolating sequential eQTL peaks and reducing effects of linkage disequilibirum (LD).
 
+**Please see our publication:** 
+
+Margaret Brown, Emily Greenwood, Biao Zeng, Joseph E Powell, Greg Gibson, Effect of all-but-one conditional analysis for eQTL isolation in peripheral blood, Genetics, Volume 223, Issue 1, January 2023, iyac162, https://doi.org/10.1093/genetics/iyac162
+
 ----------
 OBJECTIVE:
 ----------
